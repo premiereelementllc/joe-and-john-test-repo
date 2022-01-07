@@ -1,2 +1,7 @@
 #!/bin/bash
 facebook.com
+merg if error git pull -- checkout thiers of ours <file>
+git merg -- checkout theirs 700 (this overides mine)
+git merg -- checkout ours 700 (this theirs)
+git pull -- checkout theirs 700
+
